@@ -1,0 +1,31 @@
+html{
+  margin: 8;
+  font-size:16px;
+  font-family:'kepler', 'sans-serif';
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  overflow:none;
+  background-color: black;
+}
+
+body{
+  font-size:1.6rem;
+  margin:0;
+}
+
+main{
+  width:100vw;
+  overflow:wrap;
+}
+
+.videoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.background{
+  width: 100%;
+}
